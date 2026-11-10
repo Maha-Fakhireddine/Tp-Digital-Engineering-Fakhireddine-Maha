@@ -7,7 +7,7 @@
 - **Exercice 1 (`calcul-c`) :** https://github.com/Maha-Fakhireddine/calcul-c.git
 - **Exercice 2 (`calcul-c-equipe` / Binôme) :** https://github.com/Maha-Fakhireddine/calcul-c-equipe.git
 - **Lien de la Pull Request fusionnée :** https://github.com/Maha-Fakhireddine/calcul-c-equipe/pull/1
-- **Rôle dans le binôme :** Implémentation des fonctions de calcul de base, gestion des branches et résolution collaborative des conflits.
+- **Rôle dans le binôme :** Collaborateur B invité.
 
 ##  Bilan des Commandes Git
 
